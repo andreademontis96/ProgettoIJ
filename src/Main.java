@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hellodd world!");
-        System.out.println("Hellodd world!2");
+        System.out.println("Prima prova usando IJ ");
+        System.out.println("Prima prova usando IJ 2");
+        System.out.println("Prima prova usando IJ 3");
     }
 }
